@@ -144,7 +144,7 @@
         <repository>
             <id>github</id>
             <name>GitHub PioT Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/almahdi76/mrpz</url>
+            <url>https://maven.pkg.github.com/almahdi76/marios-backend</url>
         </repository>
     </distributionManagement>
 </project>
